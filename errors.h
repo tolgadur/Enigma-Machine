@@ -1,4 +1,4 @@
-/* error codes  */
+/* error codes  */ 
 #define INSUFFICIENT_NUMBER_OF_PARAMETERS         1
 #define INVALID_INPUT_CHARACTER                   2
 #define INVALID_INDEX                             3
