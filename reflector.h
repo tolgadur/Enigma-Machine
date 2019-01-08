@@ -1,6 +1,6 @@
 #ifndef REFLECTOR_H
 #define REFLECTOR_H
-
+ 
 #include "constants.h"
 
 class Reflector{
