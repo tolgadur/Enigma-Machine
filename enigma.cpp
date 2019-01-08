@@ -204,3 +204,4 @@ bool Enigma::nonNumericCharacter(const char filename[]){
   }
   return false;
 }
+ 
