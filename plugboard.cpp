@@ -4,7 +4,7 @@
 #include "plugboard.h"
 #include <iostream>
 #include <fstream>
-
+ 
 using namespace std;
 
 Plugboard::Plugboard(const char filename[]){
