@@ -1,6 +1,6 @@
 #ifndef PLUGBOARD_H
 #define PLUGBOARD_H
-
+ 
 #include "constants.h"
 
 class Plugboard{
