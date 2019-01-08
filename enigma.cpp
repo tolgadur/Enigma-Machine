@@ -10,7 +10,7 @@
 #include <vector>
 #include <cstring>
 #include <exception>
-
+ 
 using namespace std;
 
 Enigma::Enigma(const int& argc, char**& argv){
