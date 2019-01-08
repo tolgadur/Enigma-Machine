@@ -4,7 +4,7 @@
 #include "plugboard.h"
 #include <iostream>
 #include <fstream>
-
+ 
 using namespace std;
 
 Rotor::Rotor(const char filename[]){
