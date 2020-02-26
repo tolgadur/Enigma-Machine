@@ -1,2 +1,2 @@
-# enigma-machine
-An enigma machine built in C++ 
+# Enigma Machine
+Simple enigne machine simulator built in C++.
